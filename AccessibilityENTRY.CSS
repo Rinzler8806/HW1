@@ -1,9 +1,14 @@
+html {
+    display: block
+}
 
 body {
     background-color: black;
     background-image: url(https://ucdavis.bootcampcontent.com/ucdavis-boot-camp/ucd-sac-fsf-pt-09-2020-u-c/raw/trunk/01-HTML-Git-CSS/02-Homework/Assets/01-html-css-git-homework-demo.png);
 background-position: center center;
 background-repeat: no-repeat;
+display: block;
+margin: 0px;
 }
 
 {margin: 0; padding: 0;}
